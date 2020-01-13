@@ -61,7 +61,7 @@ De nos mouvements de segments enregistrés. Nous examinons comment les utilisate
 le jour 1 sont passés à divers segments après 30 jours et calculons les probabilités en conséquence.
 
    
-   ![alt text](images/segment 1.png)
+   ![alt text](images/segment_1.png)
    
 De nos mouvements de segments enregistrés. Nous examinons comment les utilisateurs de chaque segment le jour 1 
 sont passés à divers segments après 30 jours et calculons les probabilités en conséquence.   
