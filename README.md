@@ -59,7 +59,8 @@ une fois que nous aurons construit le modèle.
 # Construire la chaîne de Markov
 De nos mouvements de segments enregistrés. Nous examinons comment les utilisateurs de chaque segment
 le jour 1 sont passés à divers segments après 30 jours et calculons les probabilités en conséquence.
-  
+ ![alt text](1*PXZBg9KAbMB35Icoz-A67w.png)
+ 
  
  
  
